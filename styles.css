@@ -203,7 +203,7 @@ h1 {
   width: 100%;
   height: auto;
   max-height: 110px;
-  object-fit: contain;
+  object-fit: cover;
 }
 .jslogo {
   max-width: 110px;
