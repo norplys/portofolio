@@ -52,7 +52,6 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
 #link-container {
   width: 100%;
@@ -317,17 +316,17 @@ footer {
     width: 100%;
     padding: 50px;
   }
-  #navbar{
-      width: 50%;
+  #navbar {
+    width: 50%;
   }
 }
 @media screen and (max-width: 890px) {
   * {
     font-size: 10px;
   }
-  #navbar{
+  #navbar {
     width: 70%;
-}
+  }
   main {
     padding: 10px;
   }
@@ -370,20 +369,20 @@ footer {
   }
 }
 @media screen and (max-width: 479px) {
-  *{
+  * {
     font-size: 8px;
   }
-  #project-container{
+  #project-container {
     padding: 0;
   }
 
-  h1{
+  h1 {
     font-size: 2.5rem;
   }
-  #name{
+  #name {
     font-size: 3rem;
   }
-  #introduction{
+  #introduction {
     font-size: 3rem;
   }
   #lets {
@@ -399,11 +398,11 @@ footer {
     width: 50px;
   }
 }
-@media screen and (max-width:362px){
-  *{
+@media screen and (max-width: 362px) {
+  * {
     font-size: 7px;
   }
-  #project-container{
+  #project-container {
     justify-content: center;
   }
 }
